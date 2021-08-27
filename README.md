@@ -1,6 +1,6 @@
 # Delphier
   
- This project is an example of an old-fashioned 2D platform game developed with Delphi (Sydney 10.4.2). It was produced for the article Jeu de plateforme
+ This project is an example of an old-fashioned 2D platform game developed with Delphi (Sydney 10.4.2). It was produced for the article "Jeu de plateforme
  multi-plate-forme en Delphi" from Programmez! magazine number 247 (https://www.programmez.com/).
  
  Graphics are from Szadi (https://szadiart.itch.io/rocky-world-platformer-set). They are in asset directory like the file niveau1.json. This json file is the level  description.
