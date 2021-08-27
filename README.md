@@ -17,4 +17,4 @@
  
  [![Delphier](http://img.youtube.com/vi/tzEazG-MmzQ/0.jpg)](https://www.youtube.com/watch?v=tzEazG-MmzQ)
 
-(cliquez sur l'image pour accéder à la vidéo Youtube)
+(click the image to see the Youtube video)
