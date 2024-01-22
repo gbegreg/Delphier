@@ -1,4 +1,9 @@
 # Delphier
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+![Top language](https://img.shields.io/github/languages/top/gbegreg/Delphier)
+[![](https://tokei.rs/b1/github/gbegreg/MapReduce?category=code)](https://github.com//gbegreg/Delphier)
+[![](https://tokei.rs/b1/github/gbegreg/MapReduce?category=files)](https://github.com//gbegreg/Delphier)
+![GitHub last commit](https://img.shields.io/github/last-commit/gbegreg/Delphier)
   
  This project is an example of an old-fashioned 2D platform game developed with Delphi (Sydney 10.4.2). It was produced for the article "Jeu de plateforme
  multi-plate-forme en Delphi" from Programmez! magazine number 247 (https://www.programmez.com/).
