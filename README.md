@@ -13,6 +13,9 @@
  This game is cross-platform and you will find the binaries for Windows, Mac OS, Linux and Android in the bin repository.
   
  It does not use any game engine ! So i can proudly indicate "Not made with Unity" :) 
+
+ I am developing a game from Delphier but much more complete named <a href="https://www.gbesoft.fr/jeux.php#nagory">Nagory</a>. You will find the demo of Nagory on my <a href="https://www.gbesoft.fr/jeux.php#nagory">site</a> for Windows, Mac OS, Linux and Android.
+ The Android version is also available on the <a href="https://play.google.com/store/apps/details?id=fr.gbesoft.NagoryDemo">Play Store</a>.
  
 # How to play
  This is a demo, it's not a complete game. So the level is small.
